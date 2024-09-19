@@ -1,0 +1,3 @@
+Este proyecto es una aplicación para ayudar a las personas que estudian español a practicar sus habilidades de escritura. Esta aplicación corrige lo que escriben mal y les enseña la forma correcta de escribirlo. Todavía no funciona a un 90% de precisión es como un 30%, pero si sigo desarrollándolo, puede mejorar.
+
+This project is an application to help people studying Spanish practice their writting skills. This app corrects what they write wrong and teach them the right way to write it. It still doesn't work at 90% of acurracy is like a 30%, but if I continue developing it, it can be improved.
